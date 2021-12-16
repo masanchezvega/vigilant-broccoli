@@ -1,2 +1,3 @@
-# vigilant-broccoli
-This is a quick demo
+# Welcome to Vigilant Broccoli
+
+Have fun!
